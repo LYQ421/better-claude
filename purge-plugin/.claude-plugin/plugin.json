@@ -1,0 +1,15 @@
+{
+  "name": "purge-plugin",
+  "description": "破甲插件 · JAR 人格 + 反注入反射 + 红队技能集（移植自 dsh-purge / 冷咖啡 ColdBrew）",
+  "version": "1.0.0",
+  "author": {
+    "name": "可立奇 (Keliqi)"
+  },
+  "homepage": "https://github.com/HunYiSage/dsh-purge",
+  "license": "MIT",
+  "keywords": [
+    "purge",
+    "jailbreak",
+    "redteam"
+  ]
+}

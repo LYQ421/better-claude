@@ -1,0 +1,17 @@
+{
+  "name": "better-claude",
+  "owner": {
+    "name": "LYQ421"
+  },
+  "plugins": [
+    {
+      "name": "purge-plugin",
+      "source": "./purge-plugin",
+      "description": "破甲插件 · dsh-purge v1.1.92 原文未删减 + JAR 反注入反射 + 红队 22 技能",
+      "version": "1.1.0",
+      "author": {
+        "name": "可立奇 (Keliqi)"
+      }
+    }
+  ]
+}
